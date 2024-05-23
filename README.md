@@ -45,19 +45,12 @@ This repository contains the digital appendices of the paper Supporting Particip
 
 # Appendix B: Policy Objectives
 
-
-\section{Policy Objectives}
-
-\textbf{Theme 1: Enabling Factors}
-\begin{itemize}
-    \item \textbf{Sub-theme 1: }Technological Infrastructure.
-    \begin{itemize}
-        \item \textbf{Objective 1.1:} To make Chile a global hub of connectivity infrastructure in the southern hemisphere.
-        \item \textbf{Objective 1.2: }To deploy connectivity infrastructure and guarantee internet access, ensuring minimum quality standards.
-        \item \textbf{Objective 1.3:}To deploy technological infrastructure with high cybersecurity standards for research and development, increasing storage and processing capabilities.
-    \end{itemize}
-    \item \textbf{Sub-theme 2: }Talent development
-    \begin{itemize}
+## Theme 1: Enabling Factors
+### Sub-theme 1: Technological Infrastructure.
+- Objective 1.1.1: To make Chile a global hub of connectivity infrastructure in the southern hemisphere.
+- Objective 1.1.2: To deploy connectivity infrastructure and guarantee internet access, ensuring minimum quality standards.
+- Objective 1.1.3: To deploy technological infrastructure with high cybersecurity standards for research and development, increasing storage and processing capabilities.
+### Sub-theme 2: Talent development
         \item \textbf{Objective 2.1: }To promote the development of skills, knowledge, and aptitudes related to AI systems' development, use, and critical analysis. School education must consider technology's positive and negative implications and foster critical thinking based on ethics.
         \item \textbf{Objective 2.2: }To foster AI as a cross-cutting discipline in technical education.
         \item \textbf{Objective 2.3 }To encourage the creation of specialized AI programs in Higher Education Institutions (HEIs) curricula and, at the same time, their incorporation in a cross-cutting manner across disciplines.        
