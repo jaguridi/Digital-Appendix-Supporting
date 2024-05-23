@@ -51,61 +51,46 @@ This repository contains the digital appendices of the paper Supporting Particip
 - Objective 1.1.2: To deploy connectivity infrastructure and guarantee internet access, ensuring minimum quality standards.
 - Objective 1.1.3: To deploy technological infrastructure with high cybersecurity standards for research and development, increasing storage and processing capabilities.
 ### Sub-theme 2: Talent development
-        \item \textbf{Objective 2.1: }To promote the development of skills, knowledge, and aptitudes related to AI systems' development, use, and critical analysis. School education must consider technology's positive and negative implications and foster critical thinking based on ethics.
-        \item \textbf{Objective 2.2: }To foster AI as a cross-cutting discipline in technical education.
-        \item \textbf{Objective 2.3 }To encourage the creation of specialized AI programs in Higher Education Institutions (HEIs) curricula and, at the same time, their incorporation in a cross-cutting manner across disciplines.        
-        \item \textbf{Objective 2.4: }To Increase the number of AI experts to a value above the OECD average.
-    \end{itemize}
-    \item \textbf{Sub-theme 3: }Data
-    \begin{itemize}
-        \item \textbf{Objective 3.1: }To consolidate a data ecosystem with open and secure sources for AI development.
-    \end{itemize}
-\end{itemize}
+- Objective 1.2.1: To promote the development of skills, knowledge, and aptitudes related to AI systems' development, use, and critical analysis. School education must consider technology's positive and negative implications and foster critical thinking based on ethics.
+- Objective 1.2.2: To foster AI as a cross-cutting discipline in technical education.
+- Objective 1.2.3 To encourage the creation of specialized AI programs in Higher Education Institutions (HEIs) curricula and, at the same time, their incorporation in a cross-cutting manner across disciplines.        
+- Objective 1.2.4: To Increase the number of AI experts to a value above the OECD average.
 
-\textbf{Theme 2: Development and Adoption}
+### Sub-theme 3: Data
+- Objective 1.3.1: To consolidate a data ecosystem with open and secure sources for AI development.
 
-\begin{itemize}
-    \item \textbf{Objective 2.1: }To strengthen Chilean AI academia, improving research productivity to OECD levels.
-    \item \textbf{Objective 2.2: }To promote industry-academia collaboration.
-    \item \textbf{Objective 2.3: }To foster research, development, innovation, and entrepreneurship related to AI.
-    \item \textbf{Objective 2.4: }To promote the use of AI to mitigate climate change and its harmful effects on people.
-    \item \textbf{Objective 2.5: }To encourage AI adoption to OECD levels.
-    \item \textbf{Objective 2.6: }To foster initiatives to strengthen the Arts and Culture ecosystem through AI.
-    \item \textbf{Objective 2.7 }To foster AI adoption in the public sector to OECD levels.
-    \item \textbf{Objective 2.8: }To encourage AI systems' development considering their environmental impacts.
-        
-\end{itemize}
+## Theme 2: Development and Adoption
 
-\textbf{Theme 3: Ethics, legal and regulatory issues and socioeconomic impacts}
+- Objective 2.1.1: To strengthen Chilean AI academia, improving research productivity to OECD levels.
+- Objective 2.1.2: To promote industry-academia collaboration.
+- Objective 2.1.3: To foster research, development, innovation, and entrepreneurship related to AI.
+- Objective 2.1.4: To promote the use of AI to mitigate climate change and its harmful effects on people.
+- Objective 2.1.5: To encourage AI adoption to OECD levels.
+- Objective 2.1.6: To foster initiatives to strengthen the Arts and Culture ecosystem through AI.
+- Objective 2.1.7 To foster AI adoption in the public sector to OECD levels.
+- Objective 2.1.8: To encourage AI systems' development considering their environmental impacts.
 
-\begin{itemize}
-    \item \textbf{Sub-theme 1: }Ethics
-    \begin{itemize}
-        \item \textbf{Objective 1.1: To develop AI governance focused on protecting human rights.}\\
-    \end{itemize}
-    \item \textbf{Sub-theme 2: Impacts on labor}
-    \begin{itemize}
-        \item \textbf{Objective 2.1: }To anticipate unemployment due to AI and support workers transitioning to new jobs. \\
-        \item \textbf{Objective 2.2: }To provide protection and conflict resolution mechanisms for workers in the face of automation, taking care not to harm technological development and adoption or productivity. \\
-    \end{itemize}
-    \item \textbf{Sub-theme 3: }Consumer relations
-    \begin{itemize}
-        \item \textbf{Objective 3.1: }To promote the use of AI in digital commerce that is transparent, non-discriminatory, and respectful of privacy regulations. \\
-   \end{itemize}
-    \item \textbf{Sub-theme 4: }Intellectual Property
-    \begin{itemize}
-        \item \textbf{Objective 4.1: }To develop an updated intellectual property system capable of continuing to foster and strengthen creativity and AI-based innovation. \\
-    \end{itemize}
-    \item \textbf{Sub-theme 5: }Cybersecurity and cyberdefense
-    \begin{itemize}
-        \item \textbf{Objective 5.1 }To foster cybersecurity as a core component of AI systems,  promoting the development of secure technology systems.\\
-    \end{itemize}
-    \item \textbf{Sub-theme 6: }Gender
-    \begin{itemize}
-        \item \textbf{Objective 6.1: }To foster the participation of women in AI-related research and development to OECD levels. \\
-        \item \textbf{Objective 6.2: }To monitor the impact of automation on the labor market so that it is not gender biased. \\
-        \item \textbf{Objective 6.3:} To foster women in the AI industry to reach OECD levels. \\
-        \item \textbf{Objective 6.4: }To promote gender equality when implementing AI systems.
-    \end{itemize}
-\end{itemize}
+## Theme 3: Ethics, legal and regulatory issues and socioeconomic impacts
+
+### Sub-theme 1: Ethics
+- Objective 3.1.1: To develop AI governance focused on protecting human rights.
+
+### Sub-theme 2: Impacts on labor
+- Objective 3.2.1: To anticipate unemployment due to AI and support workers transitioning to new jobs.
+- Objective 3.2.2: To provide protection and conflict resolution mechanisms for workers in the face of automation, taking care not to harm technological development and adoption or productivity.
+
+### Sub-theme 3: Consumer relations
+- Objective 3.3.1: To promote the use of AI in digital commerce that is transparent, non-discriminatory, and respectful of privacy regulations.
+
+### Sub-theme 4: Intellectual Property
+- Objective 3.4.1: To develop an updated intellectual property system capable of continuing to foster and strengthen creativity and AI-based innovation.
+
+### Sub-theme 5: Cybersecurity and cyberdefense
+- Objective 3.5.1: To foster cybersecurity as a core component of AI systems,  promoting the development of secure technology systems.
+
+### Sub-theme 6: Gender
+- Objective 3.6.1: To foster the participation of women in AI-related research and development to OECD levels.
+- Objective 3.6.2: To monitor the impact of automation on the labor market so that it is not gender biased.
+- Objective 6.3: To foster women in the AI industry to reach OECD levels.
+- Objective 6.4: To promote gender equality when implementing AI systems.
 
